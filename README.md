@@ -1,4 +1,4 @@
-# The_gossip_project_sinatra
+# The_gossip_project_sinatra (Je n'ai pas encore fini)
 The Hacking Project - The gossip project - Sinatra
 
 Objectif : Créer une application The Gossip Project avec Sinatra <br />
